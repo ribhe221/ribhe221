@@ -1,7 +1,8 @@
 ## Hello 👋
 
--I'm an I section student at LCE
--I'm currently learning how to program in java and game development
+#### -I'm an I section student at LCE
+#### -I'm currently learning  java and game development
+#### -Reach me at ribhe221@school.lu
 <!--
 **ribhe221/ribhe221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
