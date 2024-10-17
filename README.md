@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello 👋
 
+-I'm an I section student at LCE
+-I'm currently learning how to program in java and game development
 <!--
 **ribhe221/ribhe221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
